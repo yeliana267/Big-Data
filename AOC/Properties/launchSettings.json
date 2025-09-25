@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "AOC": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ConnectionString": "Host=localhost;Port=5432;Username=postgres;Password=yeliana267;Database=postgres"
+      }
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

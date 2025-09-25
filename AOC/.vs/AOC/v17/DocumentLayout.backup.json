@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\big_data\\AOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\dbloaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\dbloaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\clasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\clasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\webreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\webreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\tipofuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\tipofuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\socialcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\socialcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\opiniones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\opiniones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\fuentedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\fuentedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\fuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\fuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nanad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SocialComments.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Models\\SocialComments.cs",
+              "RelativeDocumentMoniker": "Models\\SocialComments.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Models\\SocialComments.cs",
+              "RelativeToolTip": "Models\\SocialComments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:52:35.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fuente.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Models\\Fuente.cs",
+              "RelativeDocumentMoniker": "Models\\Fuente.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Models\\Fuente.cs",
+              "RelativeToolTip": "Models\\Fuente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:52:14.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clasificacion.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Models\\Clasificacion.cs",
+              "RelativeDocumentMoniker": "Models\\Clasificacion.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Models\\Clasificacion.cs",
+              "RelativeToolTip": "Models\\Clasificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:52:00.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoFuente.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Models\\TipoFuente.cs",
+              "RelativeDocumentMoniker": "Models\\TipoFuente.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Models\\TipoFuente.cs",
+              "RelativeToolTip": "Models\\TipoFuente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:51:23.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebReview.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Models\\WebReview.cs",
+              "RelativeDocumentMoniker": "Models\\WebReview.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Models\\WebReview.cs",
+              "RelativeToolTip": "Models\\WebReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:49:14.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FuenteDatos.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Models\\FuenteDatos.cs",
+              "RelativeDocumentMoniker": "Models\\FuenteDatos.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Models\\FuenteDatos.cs",
+              "RelativeToolTip": "Models\\FuenteDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:44:43.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\nanad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\Users\\nanad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\nanad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\Users\\nanad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAcwNkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-25T02:18:33.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbLoaderService.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Services\\DbLoaderService.cs",
+              "RelativeDocumentMoniker": "Services\\DbLoaderService.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Services\\DbLoaderService.cs",
+              "RelativeToolTip": "Services\\DbLoaderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:16:58.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\big_data\\AOC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-25T02:04:23.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Opiniones.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Models\\Opiniones.cs",
+              "RelativeDocumentMoniker": "Models\\Opiniones.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Models\\Opiniones.cs",
+              "RelativeToolTip": "Models\\Opiniones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:02:30.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:01:53.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:01:08.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:58:55.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:54:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
