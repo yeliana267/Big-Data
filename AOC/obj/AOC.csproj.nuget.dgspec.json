@@ -59,11 +59,11 @@
               "target": "Package",
               "version": "[2.1.66, )"
             },
-            "Microsoft.Extensions.Configuration": {
+            "EntityFramework": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[6.5.1, )"
             },
-            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+            "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[9.0.9, )"
             },
@@ -78,6 +78,18 @@
             "Npgsql": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Z.EntityFramework.Plus.EFCore": {
+              "target": "Package",
+              "version": "[9.104.0, )"
             }
           },
           "imports": [

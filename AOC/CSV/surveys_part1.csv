@@ -1,4 +1,4 @@
-IdOpinion,IdCliente,IdProducto,Fecha,Comentario,Clasificación,PuntajeSatisfacción,Fuente
+IdOpinion,IdCliente,IdProducto,Fecha,Comentario,Clasificacion,PuntajeSatisfaccion,Fuente
 1,8537,366,2025-07-15,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
 2,2721,667,2024-12-07,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
 3,8424,953,2025-06-20,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna

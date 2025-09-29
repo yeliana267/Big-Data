@@ -3,12 +3,11 @@ namespace AOC.Models
 {
     public class SocialComments
     {
-        public int IdComment { get; set; }
-        public int IdCliente { get; set; }
-        public int IdProducto { get; set; }
-        public int Fuente { get; set; }
+        public string IdComment { get; set; }
+        public string IdCliente { get; set; }
+        public string IdProducto { get; set; }
+        public string Fuente { get; set; }
         public DateTime Fecha { get; set; }
         public string Comentario { get; set; }
-
     }
 }
