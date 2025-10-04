@@ -36,7 +36,7 @@ public class DbInserter
                 {
                     var value = mp.GetValue(model);
                     if (value != null)
-                        ep.SetValue(entity, value); // solo copiar el valor tal cual
+                        ep.SetValue(entity, value);
                 }
             }
 

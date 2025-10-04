@@ -22,7 +22,7 @@ public class DataCleaner
         return DateTime.ParseExact(dateStr, "yyyy-MM-dd", CultureInfo.InvariantCulture);
     }
 
-    // 🔹 Limpieza automática con Reflection
+    //  Limpieza automática con Reflection
     public void AutoClean<T>(List<T> list)
     {
         foreach (var item in list)
@@ -31,7 +31,7 @@ public class DataCleaner
 
             foreach (var prop in properties)
             {
-                if (!prop.CanRead || !prop.CanWrite) continue; // saltar propiedades sin set/get
+                if (!prop.CanRead || !prop.CanWrite) continue; 
 
                 var value = prop.GetValue(item);
 

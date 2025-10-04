@@ -19,11 +19,11 @@ public class DataTransformer
         Action<T, int> setId
     ) where T : class, new()
     {
-        // 1️⃣ Traer lo que ya existe
+        // 1️ Traer lo que ya existe
         var existing = dbSet.ToList();
         var map = existing.ToDictionary(getName, getId);
 
-        // 2️⃣ Insertar los que faltan
+        // 2️ Insertar los que faltan
         int nextId = existing.Any() ? existing.Max(getId) + 1 : 1;
 
         foreach (var val in valuesToEnsure.Distinct())
@@ -40,7 +40,6 @@ public class DataTransformer
             }
         }
 
-        // 👇 Aquí estaba el error
         _context.SaveChanges();
         return map;
     }

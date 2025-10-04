@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\big_data\\AOC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\datatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\datatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\dbinserter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\dbinserter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\pruebaconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\pruebaconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\fuentedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\surveys_part1.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:csv\\surveys_part1.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\opiniones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\webreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,22 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\productoscategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\productoscategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\datatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\datatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\dbinserter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\dbinserter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\products.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -126,11 +130,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 33,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "fuente_datos.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\fuente_datos.csv",
               "RelativeDocumentMoniker": "CSV\\fuente_datos.csv",
@@ -140,6 +144,23 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
               "WhenOpened": "2025-09-28T23:38:41.246Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PruebaConexion.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Services\\PruebaConexion.cs",
+              "RelativeDocumentMoniker": "Services\\PruebaConexion.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Services\\PruebaConexion.cs",
+              "RelativeToolTip": "Services\\PruebaConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T04:04:55.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Bookmark",
@@ -163,20 +184,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "DbExtensions.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Services\\DbExtensions.cs",
               "RelativeDocumentMoniker": "Services\\DbExtensions.cs",
               "ToolTip": "C:\\big_data\\AOC\\Services\\DbExtensions.cs",
               "RelativeToolTip": "Services\\DbExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T03:14:43.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "webReviews.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\webReviews.cs",
               "RelativeDocumentMoniker": "Entities\\webReviews.cs",
@@ -184,12 +205,11 @@
               "RelativeToolTip": "Entities\\webReviews.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T03:34:16.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T03:34:16.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "tipoRedSocial.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\tipoRedSocial.cs",
               "RelativeDocumentMoniker": "Entities\\tipoRedSocial.cs",
@@ -197,12 +217,11 @@
               "RelativeToolTip": "Entities\\tipoRedSocial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T03:33:40.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T03:33:40.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "tipoFuente.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\tipoFuente.cs",
               "RelativeDocumentMoniker": "Entities\\tipoFuente.cs",
@@ -210,12 +229,11 @@
               "RelativeToolTip": "Entities\\tipoFuente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T03:33:33.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T03:33:33.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "socialComments.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\socialComments.cs",
               "RelativeDocumentMoniker": "Entities\\socialComments.cs",
@@ -223,12 +241,11 @@
               "RelativeToolTip": "Entities\\socialComments.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T03:33:20.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T03:33:20.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "opinionesClasificacion.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\opinionesClasificacion.cs",
               "RelativeDocumentMoniker": "Entities\\opinionesClasificacion.cs",
@@ -236,12 +253,11 @@
               "RelativeToolTip": "Entities\\opinionesClasificacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T03:32:55.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T03:32:55.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "opiniones.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\opiniones.cs",
               "RelativeDocumentMoniker": "Entities\\opiniones.cs",
@@ -249,12 +265,11 @@
               "RelativeToolTip": "Entities\\opiniones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T03:32:34.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T03:32:34.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "fuenteDatos.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\fuenteDatos.cs",
               "RelativeDocumentMoniker": "Entities\\fuenteDatos.cs",
@@ -262,12 +277,11 @@
               "RelativeToolTip": "Entities\\fuenteDatos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T03:32:22.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T03:32:22.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "productos.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\productos.cs",
               "RelativeDocumentMoniker": "Entities\\productos.cs",
@@ -275,12 +289,11 @@
               "RelativeToolTip": "Entities\\productos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T03:33:03.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T03:33:03.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "clientes.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\clientes.cs",
               "RelativeDocumentMoniker": "Entities\\clientes.cs",
@@ -288,25 +301,24 @@
               "RelativeToolTip": "Entities\\clientes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T03:32:06.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T03:32:06.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 5,
               "Title": "DbInserter.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Services\\DbInserter.cs",
               "RelativeDocumentMoniker": "Services\\DbInserter.cs",
               "ToolTip": "C:\\big_data\\AOC\\Services\\DbInserter.cs",
               "RelativeToolTip": "Services\\DbInserter.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T03:22:01.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "surveys_part1.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\surveys_part1.csv",
               "RelativeDocumentMoniker": "CSV\\surveys_part1.csv",
@@ -314,25 +326,24 @@
               "RelativeToolTip": "CSV\\surveys_part1.csv",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-09-29T02:35:02.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T02:35:02.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 3,
               "Title": "DataTransformer.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Services\\DataTransformer.cs",
               "RelativeDocumentMoniker": "Services\\DataTransformer.cs",
               "ToolTip": "C:\\big_data\\AOC\\Services\\DataTransformer.cs",
               "RelativeToolTip": "Services\\DataTransformer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T01:54:35.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "productosCategorias.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\productosCategorias.cs",
               "RelativeDocumentMoniker": "Entities\\productosCategorias.cs",
@@ -340,12 +351,11 @@
               "RelativeToolTip": "Entities\\productosCategorias.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T02:31:43.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T02:31:43.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
@@ -358,19 +368,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 2,
               "Title": "DataCleaner.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Services\\DataCleaner.cs",
               "RelativeDocumentMoniker": "Services\\DataCleaner.cs",
               "ToolTip": "C:\\big_data\\AOC\\Services\\DataCleaner.cs",
               "RelativeToolTip": "Services\\DataCleaner.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T02:02:33.182Z"
+              "WhenOpened": "2025-09-29T02:02:33.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Products.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Models\\Products.cs",
               "RelativeDocumentMoniker": "Models\\Products.cs",
@@ -378,12 +389,11 @@
               "RelativeToolTip": "Models\\Products.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T01:59:41.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T01:59:41.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "FuenteDatos.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Models\\FuenteDatos.cs",
               "RelativeDocumentMoniker": "Models\\FuenteDatos.cs",
@@ -391,25 +401,24 @@
               "RelativeToolTip": "Models\\FuenteDatos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T01:59:31.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T01:59:31.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "Clients.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Models\\Clients.cs",
               "RelativeDocumentMoniker": "Models\\Clients.cs",
               "ToolTip": "C:\\big_data\\AOC\\Models\\Clients.cs",
               "RelativeToolTip": "Models\\Clients.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T01:59:30.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "WebReviews.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Models\\WebReviews.cs",
               "RelativeDocumentMoniker": "Models\\WebReviews.cs",
@@ -417,12 +426,11 @@
               "RelativeToolTip": "Models\\WebReviews.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T01:54:21.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T01:54:21.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Surveys.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Models\\Surveys.cs",
               "RelativeDocumentMoniker": "Models\\Surveys.cs",
@@ -430,12 +438,11 @@
               "RelativeToolTip": "Models\\Surveys.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T01:54:08.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T01:54:08.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "SocialComments.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Models\\SocialComments.cs",
               "RelativeDocumentMoniker": "Models\\SocialComments.cs",
@@ -443,24 +450,24 @@
               "RelativeToolTip": "Models\\SocialComments.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T01:53:46.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T01:53:46.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 1,
               "Title": "CsvLoader.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Services\\CsvLoader.cs",
               "RelativeDocumentMoniker": "Services\\CsvLoader.cs",
               "ToolTip": "C:\\big_data\\AOC\\Services\\CsvLoader.cs",
               "RelativeToolTip": "Services\\CsvLoader.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T01:36:43.73Z"
+              "WhenOpened": "2025-09-29T01:36:43.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "web_reviews.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\web_reviews.csv",
               "RelativeDocumentMoniker": "CSV\\web_reviews.csv",
@@ -472,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "social_comments.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\social_comments.csv",
               "RelativeDocumentMoniker": "CSV\\social_comments.csv",
@@ -480,12 +487,11 @@
               "RelativeToolTip": "CSV\\social_comments.csv",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-09-29T01:23:48.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T01:23:48.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "products.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\products.csv",
               "RelativeDocumentMoniker": "CSV\\products.csv",
@@ -497,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "clients.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\clients.csv",
               "RelativeDocumentMoniker": "CSV\\clients.csv",
@@ -509,13 +515,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\big_data\\AOC\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIYAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAALwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T22:55:48.79Z",
               "EditorCaption": ""

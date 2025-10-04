@@ -44,9 +44,8 @@ namespace AOC
             cleaner.AutoClean(fuenteDatos);
 
 
-            // -----------------------------
-            // 1️⃣ Categorías de productos
-            // -----------------------------
+            // 1️ Categorías de productos
+     
             var categoriasMap = transformer.EnsureMasterTable(
                 context.ProductosCategorias,
                 productos.Select(p => p.Categoria).Distinct(),
@@ -56,9 +55,8 @@ namespace AOC
                 (c, id) => c.idcategoria = id // Cómo asignar el id
             );
 
-            // -----------------------------
-            // 2️⃣ Clasificación de opiniones
-            // -----------------------------
+            // 2️ Clasificación de opiniones
+      
             var clasificacionMap = transformer.EnsureMasterTable(
                 context.OpinionesClasificacion,
                 opiniones.Select(o => o.Fuente).Distinct(),
@@ -68,9 +66,8 @@ namespace AOC
                 (c, id) => c.idclasificacion = id
             );
 
-            // -----------------------------
-            // 3️⃣ Tipos de fuente
-            // -----------------------------
+            // 3️ Tipos de fuente
+      
             var tipoFuenteMap = transformer.EnsureMasterTable(
                 context.TipoFuente,
                 fuenteDatos.Select(f => f.TipoFuente).Distinct(),
@@ -80,9 +77,7 @@ namespace AOC
                 (t, id) => t.idtipo = id
             );
 
-            // -----------------------------
-            // 4️⃣ Tipos de red social
-            // -----------------------------
+          //Tipos de red social
             var tipoRedSocialMap = transformer.EnsureMasterTable(
                 context.TipoRedSocial,
                 socialComments.Select(s => s.Fuente).Distinct(),
@@ -113,7 +108,7 @@ namespace AOC
                 idcliente = c.IdCliente,
                 nombre = c.Nombre,
                 email = c.Email,
-                // agrega aquí las demás propiedades que tengas
+                // agrega aquí las demás propiedades
             }).ToList();
 
             context.AddIfNotExists(clientesEntities, c => c.idcliente);
@@ -126,12 +121,12 @@ namespace AOC
                 idreview = int.TryParse(w.IdReview, out var rid) ? rid : 0,
                 idcliente = int.TryParse(w.IdCliente, out var cid) && clientesMap.ContainsKey(cid) ? cid : 0,
                 idproducto = int.TryParse(w.IdProducto, out var pid) && productosMap.ContainsKey(pid) ? pid : 0,
-                fecha = w.Fecha, // <-- si viene como string en CSV
+                fecha = w.Fecha,
                 comentario = w.Comentario,
                 rating = w.Rating
             }).ToList();
 
-            // 3️⃣ Insertar evitando duplicados
+            // 3️ Insertar evitando duplicados
             context.AddIfNotExists(webReviewsEntities, w => w.idreview);
 
 
@@ -159,7 +154,7 @@ namespace AOC
             context.AddIfNotExists(socialCommentsEntities, s => s.idcomment);
 
 
-            // Traer los mapas existentes
+      
 
             // Crear entidades para insertar
             var opinionesEntities = opiniones.Select(o => new opiniones
@@ -176,7 +171,6 @@ namespace AOC
             .Where(o => o.idcliente > 0 && o.idproducto > 0 && o.clasificacion > 0 && o.fuente > 0)
             .ToList();
 
-            // Insertar evitando duplicados
             context.AddIfNotExists(opinionesEntities, o => o.idopinion);
 
 
@@ -189,10 +183,9 @@ namespace AOC
                 tipofuente = tipoFuenteMap.ContainsKey(f.TipoFuente.ToLower()) ? tipoFuenteMap[f.TipoFuente.ToLower()] : 0,
                 fechacarga = f.FechaCarga
             })
-            .Where(f => f.tipofuente > 0) // Solo insertamos los que tienen tipofuente válido
+            .Where(f => f.tipofuente > 0) 
             .ToList();
 
-            // Insertar evitando duplicados
             context.AddIfNotExists(fuenteDatosEntities, f => f.idfuentedatos);
 
             Console.WriteLine("Data insertion completed using EF Core!");
