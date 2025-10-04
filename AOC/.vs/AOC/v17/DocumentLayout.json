@@ -3,112 +3,116 @@
   "WorkspaceRootPath": "C:\\big_data\\AOC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\dbinserter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\dbinserter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\webreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\webreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\tiporedsocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\tiporedsocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\tipofuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\tipofuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\socialcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\socialcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\productoscategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\productoscategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\opinionesclasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\opinionesclasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\opiniones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\opiniones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\fuentedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\fuentedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\datatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\datatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\fuentedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\fuentedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\products.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:csv\\products.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\social_comments.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:csv\\social_comments.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\web_reviews.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:csv\\web_reviews.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\webreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\webreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\socialcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\socialcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\surveys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\surveys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\fuente_datos.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:csv\\fuente_datos.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\surveys_part1.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:csv\\surveys_part1.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\fuentedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\fuentedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\opiniones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\opiniones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\surveys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\surveys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\social_comments.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:csv\\social_comments.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\socialcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\socialcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\socialcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\socialcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\tipofuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\tipofuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\tiporedsocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\tiporedsocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\webreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\webreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\models\\webreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:models\\webreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\opinionesclasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\opinionesclasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\entities\\productoscategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:entities\\productoscategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\datatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\datatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\dbinserter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\dbinserter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\services\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:services\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\products.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:csv\\products.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\web_reviews.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:csv\\web_reviews.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\fuente_datos.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|solutionrelative:csv\\fuente_datos.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A25A697-3E64-4554-9FE6-C9B3203C5AA0}|AOC.csproj|c:\\big_data\\aoc\\csv\\clients.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -122,11 +126,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 33,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "fuente_datos.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\fuente_datos.csv",
               "RelativeDocumentMoniker": "CSV\\fuente_datos.csv",
@@ -135,8 +139,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
               "WhenOpened": "2025-09-28T23:38:41.246Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -160,169 +163,182 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "DbExtensions.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Services\\DbExtensions.cs",
+              "RelativeDocumentMoniker": "Services\\DbExtensions.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Services\\DbExtensions.cs",
+              "RelativeToolTip": "Services\\DbExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T03:14:43.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "webReviews.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\webReviews.cs",
               "RelativeDocumentMoniker": "Entities\\webReviews.cs",
               "ToolTip": "C:\\big_data\\AOC\\Entities\\webReviews.cs",
               "RelativeToolTip": "Entities\\webReviews.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T03:34:16.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "tipoRedSocial.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\tipoRedSocial.cs",
               "RelativeDocumentMoniker": "Entities\\tipoRedSocial.cs",
               "ToolTip": "C:\\big_data\\AOC\\Entities\\tipoRedSocial.cs",
               "RelativeToolTip": "Entities\\tipoRedSocial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T03:33:40.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "tipoFuente.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\tipoFuente.cs",
               "RelativeDocumentMoniker": "Entities\\tipoFuente.cs",
               "ToolTip": "C:\\big_data\\AOC\\Entities\\tipoFuente.cs",
               "RelativeToolTip": "Entities\\tipoFuente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T03:33:33.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "socialComments.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\socialComments.cs",
               "RelativeDocumentMoniker": "Entities\\socialComments.cs",
               "ToolTip": "C:\\big_data\\AOC\\Entities\\socialComments.cs",
               "RelativeToolTip": "Entities\\socialComments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T03:33:20.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "productos.cs",
-              "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\productos.cs",
-              "RelativeDocumentMoniker": "Entities\\productos.cs",
-              "ToolTip": "C:\\big_data\\AOC\\Entities\\productos.cs",
-              "RelativeToolTip": "Entities\\productos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T03:33:03.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "opinionesClasificacion.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\opinionesClasificacion.cs",
               "RelativeDocumentMoniker": "Entities\\opinionesClasificacion.cs",
               "ToolTip": "C:\\big_data\\AOC\\Entities\\opinionesClasificacion.cs",
               "RelativeToolTip": "Entities\\opinionesClasificacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T03:32:55.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "opiniones.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\opiniones.cs",
               "RelativeDocumentMoniker": "Entities\\opiniones.cs",
               "ToolTip": "C:\\big_data\\AOC\\Entities\\opiniones.cs",
               "RelativeToolTip": "Entities\\opiniones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T03:32:34.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "fuenteDatos.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\fuenteDatos.cs",
               "RelativeDocumentMoniker": "Entities\\fuenteDatos.cs",
               "ToolTip": "C:\\big_data\\AOC\\Entities\\fuenteDatos.cs",
               "RelativeToolTip": "Entities\\fuenteDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T03:32:22.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
+              "Title": "productos.cs",
+              "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\productos.cs",
+              "RelativeDocumentMoniker": "Entities\\productos.cs",
+              "ToolTip": "C:\\big_data\\AOC\\Entities\\productos.cs",
+              "RelativeToolTip": "Entities\\productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:33:03.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "clientes.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\clientes.cs",
               "RelativeDocumentMoniker": "Entities\\clientes.cs",
               "ToolTip": "C:\\big_data\\AOC\\Entities\\clientes.cs",
               "RelativeToolTip": "Entities\\clientes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T03:32:06.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 22,
               "Title": "DbInserter.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Services\\DbInserter.cs",
               "RelativeDocumentMoniker": "Services\\DbInserter.cs",
               "ToolTip": "C:\\big_data\\AOC\\Services\\DbInserter.cs",
               "RelativeToolTip": "Services\\DbInserter.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADgvxcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T03:22:01.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 4,
               "Title": "surveys_part1.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\surveys_part1.csv",
               "RelativeDocumentMoniker": "CSV\\surveys_part1.csv",
               "ToolTip": "C:\\big_data\\AOC\\CSV\\surveys_part1.csv",
               "RelativeToolTip": "CSV\\surveys_part1.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
               "WhenOpened": "2025-09-29T02:35:02.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "DataTransformer.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Services\\DataTransformer.cs",
               "RelativeDocumentMoniker": "Services\\DataTransformer.cs",
               "ToolTip": "C:\\big_data\\AOC\\Services\\DataTransformer.cs",
               "RelativeToolTip": "Services\\DataTransformer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAArwCYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T01:54:35.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "productosCategorias.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Entities\\productosCategorias.cs",
               "RelativeDocumentMoniker": "Entities\\productosCategorias.cs",
               "ToolTip": "C:\\big_data\\AOC\\Entities\\productosCategorias.cs",
               "RelativeToolTip": "Entities\\productosCategorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T02:31:43.911Z",
               "EditorCaption": ""
@@ -335,23 +351,22 @@
               "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
               "ToolTip": "C:\\big_data\\AOC\\Context\\AppDbContext.cs",
               "RelativeToolTip": "Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T02:10:54.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "DataCleaner.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Services\\DataCleaner.cs",
               "RelativeDocumentMoniker": "Services\\DataCleaner.cs",
               "ToolTip": "C:\\big_data\\AOC\\Services\\DataCleaner.cs",
               "RelativeToolTip": "Services\\DataCleaner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T02:02:33.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T02:02:33.182Z"
             },
             {
               "$type": "Document",
@@ -361,14 +376,14 @@
               "RelativeDocumentMoniker": "Models\\Products.cs",
               "ToolTip": "C:\\big_data\\AOC\\Models\\Products.cs",
               "RelativeToolTip": "Models\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T01:59:41.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 2,
               "Title": "FuenteDatos.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Models\\FuenteDatos.cs",
               "RelativeDocumentMoniker": "Models\\FuenteDatos.cs",
@@ -381,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 14,
               "Title": "Clients.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Models\\Clients.cs",
               "RelativeDocumentMoniker": "Models\\Clients.cs",
@@ -394,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "WebReviews.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Models\\WebReviews.cs",
               "RelativeDocumentMoniker": "Models\\WebReviews.cs",
@@ -407,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 7,
               "Title": "Surveys.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Models\\Surveys.cs",
               "RelativeDocumentMoniker": "Models\\Surveys.cs",
@@ -420,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 9,
               "Title": "SocialComments.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Models\\SocialComments.cs",
               "RelativeDocumentMoniker": "Models\\SocialComments.cs",
@@ -439,14 +454,13 @@
               "RelativeDocumentMoniker": "Services\\CsvLoader.cs",
               "ToolTip": "C:\\big_data\\AOC\\Services\\CsvLoader.cs",
               "RelativeToolTip": "Services\\CsvLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T01:36:43.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T01:36:43.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "web_reviews.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\web_reviews.csv",
               "RelativeDocumentMoniker": "CSV\\web_reviews.csv",
@@ -454,38 +468,36 @@
               "RelativeToolTip": "CSV\\web_reviews.csv",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-09-29T01:23:50.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T01:23:50.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "social_comments.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\social_comments.csv",
               "RelativeDocumentMoniker": "CSV\\social_comments.csv",
               "ToolTip": "C:\\big_data\\AOC\\CSV\\social_comments.csv",
               "RelativeToolTip": "CSV\\social_comments.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
               "WhenOpened": "2025-09-29T01:23:48.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "products.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\products.csv",
               "RelativeDocumentMoniker": "CSV\\products.csv",
               "ToolTip": "C:\\big_data\\AOC\\CSV\\products.csv",
               "RelativeToolTip": "CSV\\products.csv",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAL8AAACA5A8cmcErwMgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-09-29T01:23:48.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T01:23:48.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "clients.csv",
               "DocumentMoniker": "C:\\big_data\\AOC\\CSV\\clients.csv",
               "RelativeDocumentMoniker": "CSV\\clients.csv",
@@ -493,18 +505,17 @@
               "RelativeToolTip": "CSV\\clients.csv",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-09-29T01:23:46.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T01:23:46.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\big_data\\AOC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\big_data\\AOC\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAFAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIYAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T22:55:48.79Z",
               "EditorCaption": ""

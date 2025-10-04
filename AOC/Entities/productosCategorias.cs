@@ -1,5 +1,9 @@
-﻿public class productosCategorias
+﻿using System.ComponentModel.DataAnnotations;
+
+public class productosCategorias
 {
-    public int idCategoria { get; set; }
+    [Key]
+
+    public int idcategoria { get; set; }
     public string nombre { get; set; }
 }

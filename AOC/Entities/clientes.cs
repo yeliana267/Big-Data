@@ -1,8 +1,12 @@
-﻿namespace AOC.Entities
+﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using System.ComponentModel.DataAnnotations;
+
+namespace AOC.Entities
 {
     public class clientes
     {
-        public int idCliente { get; set; }
+        [Key]
+        public int idcliente { get; set; }
         public string nombre { get; set; }
         public string email { get; set; }
     }

@@ -1,62 +1,47 @@
-﻿using Dapper;
-using Npgsql;
+﻿using AOC.Context;
+using Microsoft.EntityFrameworkCore; // usa EF Core en vez de EF6 (System.Data.Entity es viejo)
 
 public class DataTransformer
 {
-    private readonly string _connectionString;
+    private readonly AppDbContext _context;
 
-    public DataTransformer(string connectionString)
+    public DataTransformer(AppDbContext context)
     {
-        _connectionString = connectionString;
+        _context = context;
     }
 
-    /// <summary>
-    /// Crea tabla maestra si no existe y genera un mapa dinámico nombre -> id
-    /// IDs se generan en código
-    /// </summary>
-    public Dictionary<string, int> EnsureMasterTable(string tableName, string idColumn, IEnumerable<string> uniqueValues)
+    public Dictionary<string, int> EnsureMasterTable<T>(
+        DbSet<T> dbSet,
+        IEnumerable<string> valuesToEnsure,
+        Func<T, string> getName,
+        Action<T, string> setName,
+        Func<T, int> getId,
+        Action<T, int> setId
+    ) where T : class, new()
     {
-        using var conn = new NpgsqlConnection(_connectionString);
-        conn.Open();
+        // 1️⃣ Traer lo que ya existe
+        var existing = dbSet.ToList();
+        var map = existing.ToDictionary(getName, getId);
 
-        // Consulta correcta sin comillas si la columna no está entre comillas
-        var existingMap = conn.Query($"SELECT {idColumn} AS Id, nombre FROM opiniones.{tableName}")
-                              .ToDictionary(x => (string)x.nombre, x => (int)x.id);
+        // 2️⃣ Insertar los que faltan
+        int nextId = existing.Any() ? existing.Max(getId) + 1 : 1;
 
-        int nextId = existingMap.Count > 0 ? existingMap.Values.Max() + 1 : 1;
-
-        foreach (var val in uniqueValues)
+        foreach (var val in valuesToEnsure.Distinct())
         {
-            if (!existingMap.ContainsKey(val))
+            if (!map.ContainsKey(val))
             {
-                var sql = $"INSERT INTO opiniones.{tableName} ({idColumn}, nombre) VALUES (@Id, @Nombre)";
-                conn.Execute(sql, new { Id = nextId, Nombre = val });
-                existingMap[val] = nextId;
+                var item = new T();
+                setName(item, val);
+                setId(item, nextId);
+                dbSet.Add(item);
+
+                map[val] = nextId;
                 nextId++;
             }
         }
 
-        return existingMap;
-    }
-
-    /// <summary>   
-    /// Mapea nombres a IDs usando el diccionario generado
-    /// </summary>
-    public void MapForeignKey<T>(List<T> data, string propertyName, Dictionary<string, int> map)
-    {
-        foreach (var item in data)
-        {
-            var propNombre = typeof(T).GetProperty(propertyName + "Nombre");
-            var propFk = typeof(T).GetProperty(propertyName);
-
-            if (propNombre == null || propFk == null) continue;
-
-            var value = (string)propNombre.GetValue(item);
-            if (value != null && map.TryGetValue(value, out var fkValue))
-            {
-                propFk.SetValue(item, fkValue);
-
-            }
-        }
+        // 👇 Aquí estaba el error
+        _context.SaveChanges();
+        return map;
     }
 }

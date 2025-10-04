@@ -1,8 +1,12 @@
-﻿namespace AOC.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace AOC.Entities
 {
     public class opinionesClasificacion
     {
-        public int idClasificacion { get; set; }
+        [Key]
+
+        public int idclasificacion { get; set; }
         public string nombre { get; set; }
     }
 }
